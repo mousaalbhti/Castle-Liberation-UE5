@@ -1,0 +1,59 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.5",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "CinematicPrestreaming",
+			"Enabled": true
+		},
+		{
+			"Name": "WMFCodecs",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "Firebase",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Android",
+				"IOS"
+			]
+		},
+		{
+			"Name": "GameInputWindows",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "WinDualShock",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "MfMedia",
+			"Enabled": true
+		}
+	],
+	"TargetPlatforms": [
+		"Windows"
+	]
+}
